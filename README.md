@@ -1,59 +1,118 @@
-<h1 align="center">Hi 👋, I'm Abdulrahman Aghbesh</h1>
+#include <iostream>
+#include <vector>
+#include <string>
+using namespace std;
 
-<p align="center">
-  <strong>Web Developer & Programmer</strong><br>
-  Skilled in C++, Git, GitHub, Linux, and Windows.
-</p>
+struct Product {
+    int id;
+    string name;
+    double price;
+    int stock;
+};
 
-<p align="center">
-  <a href="mailto:your.email@example.com" target="_blank" title="Email">
-    <img src="https://cdn-icons-png.flaticon.com/48/732/732200.png" alt="Email" width="40" height="40" style="margin: 0 10px;">
-  </a>
-  <a href="https://github.com/yourgithubusername" target="_blank" title="GitHub">
-    <img src="https://cdn-icons-png.flaticon.com/48/733/733553.png" alt="GitHub" width="40" height="40" style="margin: 0 10px;">
-  </a>
-  <a href="https://git-scm.com/" target="_blank" title="Git">
-    <img src="https://cdn-icons-png.flaticon.com/48/2111/2111288.png" alt="Git" width="40" height="40" style="margin: 0 10px;">
-  </a>
-  <a href="https://www.linkedin.com/in/yourprofile" target="_blank" title="LinkedIn">
-    <img src="https://cdn-icons-png.flaticon.com/48/174/174857.png" alt="LinkedIn" width="40" height="40" style="margin: 0 10px;">
-  </a>
-  <a href="https://www.facebook.com/yourprofile" target="_blank" title="Facebook">
-    <img src="https://cdn-icons-png.flaticon.com/48/733/733547.png" alt="Facebook" width="40" height="40" style="margin: 0 10px;">
-  </a>
-  <a href="https://www.instagram.com/yourprofile" target="_blank" title="Instagram">
-    <img src="https://cdn-icons-png.flaticon.com/48/733/733558.png" alt="Instagram" width="40" height="40" style="margin: 0 10px;">
-  </a>
-  <a href="https://www.youtube.com/channel/yourchannel" target="_blank" title="YouTube">
-    <img src="https://cdn-icons-png.flaticon.com/48/1384/1384060.png" alt="YouTube" width="40" height="40" style="margin: 0 10px;">
-  </a>
-</p>
+struct CartItem {
+    Product product;
+    int quantity;
+};
 
-<br>
+class Store {
+private:
+    vector<Product> products;
+    vector<CartItem> cart;
 
-<h3>Skills & Tools</h3>
+public:
+    Store() {
+        // Adding some sample products
+        products.push_back({1, "Apple", 0.5, 100});
+        products.push_back({2, "Banana", 0.3, 150});
+        products.push_back({3, "Orange", 0.7, 120});
+    }
 
-<ul>
-  <li>C++ Programming</li>
-  <li>Git & GitHub</li>
-  <li>Linux & Windows OS</li>
-  <li>HTML, CSS, JavaScript (Web basics)</li>
-  <li>Basic knowledge of Python</li>
-</ul>
+    void showProducts() {
+        cout << "Available Products:\n";
+        for (const auto& p : products) {
+            cout << p.id << ". " << p.name << " - $" << p.price << " - Stock: " << p.stock << endl;
+        }
+    }
 
-<br>
+    void addToCart(int productId, int quantity) {
+        for (auto& p : products) {
+            if (p.id == productId) {
+                if (p.stock >= quantity) {
+                    p.stock -= quantity;
+                    bool found = false;
+                    for (auto& item : cart) {
+                        if (item.product.id == productId) {
+                            item.quantity += quantity;
+                            found = true;
+                            break;
+                        }
+                    }
+                    if (!found) {
+                        cart.push_back({p, quantity});
+                    }
+                    cout << quantity << " " << p.name << "(s) added to cart.\n";
+                } else {
+                    cout << "Sorry, not enough stock.\n";
+                }
+                return;
+            }
+        }
+        cout << "Product not found.\n";
+    }
 
-<hr style="width: 50%;">
+    void showCart() {
+        if (cart.empty()) {
+            cout << "Cart is empty.\n";
+            return;
+        }
+        cout << "Your Cart:\n";
+        double total = 0;
+        for (const auto& item : cart) {
+            double itemTotal = item.product.price * item.quantity;
+            cout << item.product.name << " x" << item.quantity << " = $" << itemTotal << endl;
+            total += itemTotal;
+        }
+        cout << "Total: $" << total << endl;
+    }
+};
 
-<h3>GitHub Stats</h3>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=radical" alt="GitHub Stats" width="350" />
-</p>
+int main() {
+    Store store;
+    int choice;
 
-<br>
+    do {
+        cout << "\n--- Nasim Store ---\n";
+        cout << "1. Show Products\n";
+        cout << "2. Add to Cart\n";
+        cout << "3. Show Cart\n";
+        cout << "0. Exit\n";
+        cout << "Choose an option: ";
+        cin >> choice;
 
-<hr style="width: 50%;">
+        switch (choice) {
+            case 1:
+                store.showProducts();
+                break;
+            case 2: {
+                int id, qty;
+                cout << "Enter product ID to add: ";
+                cin >> id;
+                cout << "Enter quantity: ";
+                cin >> qty;
+                store.addToCart(id, qty);
+                break;
+            }
+            case 3:
+                store.showCart();
+                break;
+            case 0:
+                cout << "Thank you for visiting Nasim Store!\n";
+                break;
+            default:
+                cout << "Invalid option. Try again.\n";
+        }
+    } while (choice != 0);
 
-<p align="center" style="font-size: 0.9em; color: gray;">
-  Last updated: 15 June 2025
-</p>
+    return 0;
+}
