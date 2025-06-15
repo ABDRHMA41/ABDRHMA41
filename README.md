@@ -64,9 +64,7 @@
 
 <a href="Tbdalrhmnaghbsh@gmail.com"><img src="https://img.shields.io/badge/Gmail-agbsh.dev-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"></a>  
 <a href="https://github.com/ABDRHMA41"><img src="https://img.shields.io/badge/GitHub-AbdelrhmanAgbsh-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>  
-<a href="www.linkedin.com/in/
-abdelrhman-agbsh-3a4b522ba
-اسم عنوان URL صغير"><img src="https://img.shields.io/badge/LinkedIn-YourName-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>  
+<a href="www.linkedin.com/in/abdelrhman-agbsh-3a4b522b"><img src="https://img.shields.io/badge/LinkedIn-YourName-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>  
 <a href="https://t.me/yourTelegr"><img src="https://img.shields.io/badge/Telegram-@YourTelegram-%2300acee.svg?style=for-the-badge&logo=telegram&logoColor=white"></a>  
 <a href="https://https://www.facebook.com/abdoarhmen.kansas"><img src="https://img.shields.io/badge/Facebook-YourName-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white"></a>  
 <a href="www.instagram.com/tbdalrhmnaghbsh?igsh=MTZkeW85YWhlaDNmdQ=="><img src="https://img.shields.io/badge/Instagram-@yourInstagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"></a>
