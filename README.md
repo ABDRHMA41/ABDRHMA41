@@ -1,30 +1,5 @@
-✨
-Magi-1 is now arrived. Learn more AI Video Generator.
 
-GitHubProfileGenerate
-
-
-English
-English
-Deutsch
-Français
-Español
-Polski
-简体中文
-にっぽん
-github profile readme generator - Create awesome GitHub profile README, over 300 templates | Product Hunt
-Template details
-Name
-0xabdulkhalid
-Preview
-/templates/img/0xabdulkhalid.webp
-github
-README
-Copy Code
-Download Markdown
-
-Preview
-  <h1 align="center"><b>Hi , I'm Abdul Khalid </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+  <h1 align="center"><b>Hi , I'm Abdelrhman Agbsh  </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->A
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&amp;color=cyan&amp;size=25&amp;center=true&amp;vCenter=true&amp;width=600&amp;height=100&amp;lines=Assalamu+O+Alaikum+Warahmatullah..♥++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
