@@ -15,7 +15,7 @@
 - 📊 Currently working on developing a smart automated trading system called Zeno  
 - 🧠 Strong experience in data structures, algorithms, and system design  
 - 🔧 Proficient with tools like VS Code, Git, and GitHub  
-- 📫 Reach me at: agbsh.dev@gmail.com  
+- 📫 Reach me at: Tbdalrhmnaghbsh@gmail.com
 - ⚡ Passionate about combining code with logic to solve real-world problems  
 
 <br clear="both"/>
