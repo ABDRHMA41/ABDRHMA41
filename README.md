@@ -62,7 +62,7 @@
 
 <div align="left">
 
-<a href="mailto:agbsh.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-agbsh.dev-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"></a>  
+<a href="Tbdalrhmnaghbsh@gmail.com"><img src="https://img.shields.io/badge/Gmail-agbsh.dev-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"></a>  
 <a href="https://github.com/AbdelrhmanAgbsh"><img src="https://img.shields.io/badge/GitHub-AbdelrhmanAgbsh-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>  
 <a href="https://linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-YourName-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>  
 <a href="https://t.me/yourTelegram"><img src="https://img.shields.io/badge/Telegram-@YourTelegram-%2300acee.svg?style=for-the-badge&logo=telegram&logoColor=white"></a>  
