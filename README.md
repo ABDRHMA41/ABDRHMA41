@@ -11,33 +11,57 @@
       font-family: Arial, sans-serif;
       margin: 30px;
       text-align: center;
+      line-height: 1.6;
     }
     h1 {
       color: #4caf50;
+      margin-bottom: 15px;
     }
-    p {
-      font-size: 18px;
-      margin-top: 10px;
+    p.intro {
+      font-size: 20px;
+      color: #81c784;
+      margin-bottom: 50px;
+    }
+    h2 {
+      margin-top: 60px;
+      margin-bottom: 25px;
+      padding-bottom: 8px;
+      border-bottom: 3px solid;
+      max-width: 320px;
+      margin-left: auto;
+      margin-right: auto;
+      font-weight: bold;
+      text-transform: uppercase;
+    }
+    h2.skills {
+      border-color: #ff9800;
+      color: #ffb74d;
+    }
+    h2.online {
+      border-color: #2196f3;
+      color: #64b5f6;
     }
     ul {
       list-style: none;
       padding: 0;
       max-width: 400px;
-      margin: 20px auto;
+      margin: 0 auto 60px auto;
       text-align: left;
+      font-size: 18px;
+      color: #cfd8dc;
     }
     ul li {
-      margin: 8px 0;
+      margin: 12px 0;
     }
     .social-icons a {
-      margin: 0 10px;
+      margin: 0 15px;
       display: inline-block;
     }
     .social-icons img {
-      width: 28px;
+      width: 32px;
       vertical-align: middle;
       filter: brightness(0) invert(1);
-      transition: filter 0.2s;
+      transition: filter 0.3s;
     }
     .social-icons a:hover img {
       filter: invert(0.4) sepia(1) saturate(4) hue-rotate(120deg);
@@ -47,36 +71,22 @@
 <body>
 
   <h1>Hello, I'm Abdelrhman Agbsh</h1>
-  <p>Web Developer | Skilled in C++, Linux, Git, and Google AI</p>
+  <p class="intro">Web Developer | Skilled in C++, Linux, Git, and Google AI</p>
 
-  <h2>My Skills</h2>
+  <h2 class="skills">My Skills</h2>
   <ul>
-    <li>Programming: C++, Python</li>
+    <li>Programming Languages: C++, Python</li>
     <li>Frontend: HTML, CSS, JavaScript</li>
-    <li>Tools: Linux, Git, GitHub, VS Code</li>
+    <li>Tools & Platforms: Linux, Git, GitHub, Visual Studio Code</li>
   </ul>
 
-  <h2>Find me online</h2>
+  <h2 class="online">Find Me Online</h2>
   <div class="social-icons">
     <a href="https://facebook.com/yourprofile" target="_blank" title="Facebook">
-      <img src="https://img.icons8.com/ios-filled/28/ffffff/facebook-new.png" alt="Facebook" />
+      <img src="https://img.icons8.com/ios-filled/32/ffffff/facebook-new.png" alt="Facebook" />
     </a>
     <a href="https://linkedin.com/in/yourprofile" target="_blank" title="LinkedIn">
-      <img src="https://img.icons8.com/ios-filled/28/ffffff/linkedin.png" alt="LinkedIn" />
+      <img src="https://img.icons8.com/ios-filled/32/ffffff/linkedin.png" alt="LinkedIn" />
     </a>
     <a href="https://instagram.com/yourprofile" target="_blank" title="Instagram">
-      <img src="https://img.icons8.com/ios-filled/28/ffffff/instagram-new.png" alt="Instagram" />
-    </a>
-    <a href="https://github.com/yourgithub" target="_blank" title="GitHub">
-      <img src="https://img.icons8.com/ios-glyphs/28/ffffff/github.png" alt="GitHub" />
-    </a>
-    <a href="mailto:your.email@example.com" target="_blank" title="Email">
-      <img src="https://img.icons8.com/ios-glyphs/28/ffffff/new-post.png" alt="Email" />
-    </a>
-    <a href="https://twitter.com/yourprofile" target="_blank" title="Twitter">
-      <img src="https://img.icons8.com/ios-filled/28/ffffff/twitter.png" alt="Twitter" />
-    </a>
-  </div>
-
-</body>
-</html>
+      <img src="https://img.icons8.com/ios-f
