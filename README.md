@@ -11,19 +11,19 @@
 ## 🧠 About Me
 <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width="250px">
 
-- 👨‍💻 Passionate C++ developer focused on building logic-based systems  
-- 📊 Currently working on a smart automated trading system called Zeno  
-- 🧠 Strong in Data Structures, Algorithms, and Systems Design  
-- 🔧 Tools of the trade: VS Code, Git, GitHub, G++, CMake  
-- 📫 Reach me at: agbsh.dev@gmail.com  
-- ⚡ Fun fact: I love mixing code, logic, and real-world challenges  
+- 👨‍💻 Passionate C++ developer focused on building logic-driven systems  
+- 📊 Currently developing a smart automated trading system named Zeno  
+- 🧠 Strong background in Data Structures, Algorithms, and Systems Design  
+- 🔧 Proficient with tools like VS Code, Git, GitHub, and G++  
+- 📫 Feel free to contact me at: agbsh.dev@gmail.com  
+- ⚡ Fun fact: I enjoy blending code, logic, and real-world problem solving  
 <br>
 
 ---
 
 ## 🛠 Skills
 
-### 🧩 Languages:
+### 🧩 Programming Languages:
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-%2300C7B7.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
@@ -31,21 +31,25 @@
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![CMake](https://img.shields.io/badge/CMake-%23004C7C.svg?style=for-the-badge&logo=cmake&logoColor=white)
-![G++](https://img.shields.io/badge/G++-Compiler-%23f34b7d.svg?style=for-the-badge&logo=gnu&logoColor=white)
 
 ---
 
-## 📈 GitHub Stats
+## 🌐 Languages
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdelrhmanAgbsh&show_icons=true&count_private=true&theme=tokyonight" width="450" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelrhmanAgbsh&layout=compact&theme=tokyonight" width="375" />
-</div>
+- English — Professional proficiency  
+- Arabic — Native speaker  
+- French — Basic knowledge  
 
 ---
 
-## 🌍 Let's Connect
+## 🖥 Operating Systems
+
+- Windows  
+- Linux (Ubuntu, Debian)  
+
+---
+
+## 🤝 Let's Connect
 
 <div align="left">
 
