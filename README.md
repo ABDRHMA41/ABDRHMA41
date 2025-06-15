@@ -11,12 +11,12 @@
 ## 🧠 About Me
 <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width="250px">
 
-- 👨‍💻 C++ Developer passionate about building logic-based systems  
+- 👨‍💻 C++ developer passionate about building logic-based systems  
 - 📊 Currently working on developing a smart automated trading system called Zeno  
 - 🧠 Strong experience in data structures, algorithms, and system design  
 - 🔧 Proficient with tools like VS Code, Git, and GitHub  
 - 📫 Reach me at: agbsh.dev@gmail.com  
-- ⚡ My passion is combining code with logic to solve real-world problems  
+- ⚡ Passionate about combining code with logic to solve real-world problems  
 
 <br clear="both"/>
 
@@ -29,4 +29,49 @@
 ![SQL](https://img.shields.io/badge/SQL-%2300C7B7.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### 🧰 Tools & Technologies:
-![Git](https://
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 🌐 Languages
+
+- Arabic — Native Speaker  
+
+---
+
+## 🖥 Operating Systems
+
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdelrhmanAgbsh&show_icons=true&count_private=true&theme=tokyonight" width="450" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelrhmanAgbsh&layout=compact&theme=tokyonight" width="375" />
+</div>
+
+---
+
+## 🤝 Connect with me
+
+<div align="left">
+
+<a href="mailto:agbsh.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-agbsh.dev-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"></a>  
+<a href="https://github.com/AbdelrhmanAgbsh"><img src="https://img.shields.io/badge/GitHub-AbdelrhmanAgbsh-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>  
+<a href="https://linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-YourName-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>  
+<a href="https://t.me/yourTelegram"><img src="https://img.shields.io/badge/Telegram-@YourTelegram-%2300acee.svg?style=for-the-badge&logo=telegram&logoColor=white"></a>  
+<a href="https://facebook.com/yourFacebook"><img src="https://img.shields.io/badge/Facebook-YourName-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white"></a>  
+<a href="https://instagram.com/yourInstagram"><img src="https://img.shields.io/badge/Instagram-@yourInstagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"></a>
+
+</div>
+
+---
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</p>
