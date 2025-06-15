@@ -1,92 +1,59 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Abdelrhman Agbsh - Web Developer</title>
-  <style>
-    body {
-      background: #121212;
-      color: #eee;
-      font-family: Arial, sans-serif;
-      margin: 30px;
-      text-align: center;
-      line-height: 1.6;
-    }
-    h1 {
-      color: #4caf50;
-      margin-bottom: 15px;
-    }
-    p.intro {
-      font-size: 20px;
-      color: #81c784;
-      margin-bottom: 50px;
-    }
-    h2 {
-      margin-top: 60px;
-      margin-bottom: 25px;
-      padding-bottom: 8px;
-      border-bottom: 3px solid;
-      max-width: 320px;
-      margin-left: auto;
-      margin-right: auto;
-      font-weight: bold;
-      text-transform: uppercase;
-    }
-    h2.skills {
-      border-color: #ff9800;
-      color: #ffb74d;
-    }
-    h2.online {
-      border-color: #2196f3;
-      color: #64b5f6;
-    }
-    ul {
-      list-style: none;
-      padding: 0;
-      max-width: 400px;
-      margin: 0 auto 60px auto;
-      text-align: left;
-      font-size: 18px;
-      color: #cfd8dc;
-    }
-    ul li {
-      margin: 12px 0;
-    }
-    .social-icons a {
-      margin: 0 15px;
-      display: inline-block;
-    }
-    .social-icons img {
-      width: 32px;
-      vertical-align: middle;
-      filter: brightness(0) invert(1);
-      transition: filter 0.3s;
-    }
-    .social-icons a:hover img {
-      filter: invert(0.4) sepia(1) saturate(4) hue-rotate(120deg);
-    }
-  </style>
-</head>
-<body>
+<h1 align="center">Hi 👋, I'm Abdulrahman Aghbesh</h1>
 
-  <h1>Hello, I'm Abdelrhman Agbsh</h1>
-  <p class="intro">Web Developer | Skilled in C++, Linux, Git, and Google AI</p>
+<p align="center">
+  <strong>Web Developer & Programmer</strong><br>
+  Skilled in C++, Git, GitHub, Linux, and Windows.
+</p>
 
-  <h2 class="skills">My Skills</h2>
-  <ul>
-    <li>Programming Languages: C++, Python</li>
-    <li>Frontend: HTML, CSS, JavaScript</li>
-    <li>Tools & Platforms: Linux, Git, GitHub, Visual Studio Code</li>
-  </ul>
+<p align="center">
+  <a href="mailto:your.email@example.com" target="_blank" title="Email">
+    <img src="https://cdn-icons-png.flaticon.com/48/732/732200.png" alt="Email" width="40" height="40" style="margin: 0 10px;">
+  </a>
+  <a href="https://github.com/yourgithubusername" target="_blank" title="GitHub">
+    <img src="https://cdn-icons-png.flaticon.com/48/733/733553.png" alt="GitHub" width="40" height="40" style="margin: 0 10px;">
+  </a>
+  <a href="https://git-scm.com/" target="_blank" title="Git">
+    <img src="https://cdn-icons-png.flaticon.com/48/2111/2111288.png" alt="Git" width="40" height="40" style="margin: 0 10px;">
+  </a>
+  <a href="https://www.linkedin.com/in/yourprofile" target="_blank" title="LinkedIn">
+    <img src="https://cdn-icons-png.flaticon.com/48/174/174857.png" alt="LinkedIn" width="40" height="40" style="margin: 0 10px;">
+  </a>
+  <a href="https://www.facebook.com/yourprofile" target="_blank" title="Facebook">
+    <img src="https://cdn-icons-png.flaticon.com/48/733/733547.png" alt="Facebook" width="40" height="40" style="margin: 0 10px;">
+  </a>
+  <a href="https://www.instagram.com/yourprofile" target="_blank" title="Instagram">
+    <img src="https://cdn-icons-png.flaticon.com/48/733/733558.png" alt="Instagram" width="40" height="40" style="margin: 0 10px;">
+  </a>
+  <a href="https://www.youtube.com/channel/yourchannel" target="_blank" title="YouTube">
+    <img src="https://cdn-icons-png.flaticon.com/48/1384/1384060.png" alt="YouTube" width="40" height="40" style="margin: 0 10px;">
+  </a>
+</p>
 
-  <h2 class="online">Find Me Online</h2>
-  <div class="social-icons">
-    <a href="https://facebook.com/yourprofile" target="_blank" title="Facebook">
-      <img src="https://img.icons8.com/ios-filled/32/ffffff/facebook-new.png" alt="Facebook" />
-    </a>
-    <a href="https://linkedin.com/in/yourprofile" target="_blank" title="LinkedIn">
-      <img src="https://img.icons8.com/ios-filled/32/ffffff/linkedin.png" alt="LinkedIn" />
-    </a>
-    <a href="https://instagram.com/yourprofile" target="_blank" title="Instagram">
-      <img src="https://img.icons8.com/ios-f
+<br>
+
+<h3>Skills & Tools</h3>
+
+<ul>
+  <li>C++ Programming</li>
+  <li>Git & GitHub</li>
+  <li>Linux & Windows OS</li>
+  <li>HTML, CSS, JavaScript (Web basics)</li>
+  <li>Basic knowledge of Python</li>
+</ul>
+
+<br>
+
+<hr style="width: 50%;">
+
+<h3>GitHub Stats</h3>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=radical" alt="GitHub Stats" width="350" />
+</p>
+
+<br>
+
+<hr style="width: 50%;">
+
+<p align="center" style="font-size: 0.9em; color: gray;">
+  Last updated: 15 June 2025
+</p>
