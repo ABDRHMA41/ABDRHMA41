@@ -166,50 +166,19 @@ public:
     string description;
     string githubRepo;
 
-    Project(string n, string d, string g) {
+ Project(string n, string d, string g) 
+    {
         name = n;
         description = d;
         githubRepo = g;
     }
 
-    void display() {
+ void display()
+    {
         cout << "Project: " << name << endl;
         cout << "Description: " << description << endl;
         cout << "Repository: " << githubRepo << endl;
     }
 };
 
-المتداول, [6/15/2025 12:03 PM]
-#include <iostream>
-#include <vector>
-using namespace std;
-
-class Project {
-public:
-    string title;
-    string description;
-
-    Project(string t, string d) {
-        title = t;
-        description = d;
-    }
-
-    void showProject() {
-        cout << "🔹 " << title << ": " << description << endl;
-    }
-};
-
-int main() {
-    vector<Project> projects;
-
-    projects.push_back(Project("موقع متجر النسيج", ""));
-    projects.push_back(Project("روبوت تداول ذكي", "نظام تداول آلي بالذكاء الاصطناعي"));
-    projects.push_back(Project("موقع شخصي", "صفحة ويب شخصية تعرض مهاراتي"));
-
-    cout << "مشاريعي:\n";
-    for (auto &p : projects) {
-        p.showProject();
-    }
-
-    return 0;
-}
+ا
