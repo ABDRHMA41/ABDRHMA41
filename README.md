@@ -1,8 +1,8 @@
-<h1 align="center"><b>Hi , I'm Abdelrhman Agbsh 👨‍💻</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi, I'm Abdelrhman Agbsh 👨‍💻</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Self-taught+Web+Developer;Passionate+Front-End+Engineer;Always+Learning+New+Tech;Building+Real+Projects+with+Love+❤️">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=C%2B%2B+Developer+and+Problem+Solver;Building+Smart+Trading+Systems;Passionate+about+Code+and+Logic;Always+Learning+New+Tech">
   </a>
 </p>
 
@@ -11,32 +11,28 @@
 ## 🧠 About Me
 <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width="250px">
 
-- 🔭 Currently working on multiple **Web Dev** projects  
-- 🌱 Learning back-end technologies like **Node.js & PHP**  
-- 💻 Most used stack: **HTML, CSS, JS, React, Git**  
-- 🧩 Solving problems with **C++** and **Python**  
-- 📫 Reach me at: `agbsh.dev@gmail.com`  
-- ⚡ Fun fact: I love blending design + code + logic  
+- 👨‍💻 Passionate C++ developer focused on building logic-based systems  
+- 📊 Currently working on a smart automated trading system called Zeno  
+- 🧠 Strong in Data Structures, Algorithms, and Systems Design  
+- 🔧 Tools of the trade: VS Code, Git, GitHub, G++, CMake  
+- 📫 Reach me at: agbsh.dev@gmail.com  
+- ⚡ Fun fact: I love mixing code, logic, and real-world challenges  
 <br>
 
 ---
 
-## 🛠️ Skills
+## 🛠 Skills
 
-### Languages:
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+### 🧩 Languages:
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%2300C7B7.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### Frameworks & Tools:
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+### 🧰 Tools & Technologies:
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-%23004C7C.svg?style=for-the-badge&logo=cmake&logoColor=white)
+![G++](https://img.shields.io/badge/G++-Compiler-%23f34b7d.svg?style=for-the-badge&logo=gnu&logoColor=white)
 
 ---
 
@@ -49,11 +45,17 @@
 
 ---
 
-## 🤝 Let’s Connect!
+## 🌍 Let's Connect
+
 <div align="left">
-<a href="mailto:agbsh.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-agbsh.dev-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://linkedin.com/in/your-link" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://t.me/yourTelegram" target="_blank"><img src="https://img.shields.io/badge/Telegram-%2300acee.svg?style=for-the-badge&logo=telegram&logoColor=white"></a>
+
+<a href="mailto:agbsh.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-agbsh.dev-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"></a>  
+<a href="https://github.com/AbdelrhmanAgbsh"><img src="https://img.shields.io/badge/GitHub-AbdelrhmanAgbsh-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>  
+<a href="https://linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-YourName-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>  
+<a href="https://t.me/yourTelegram"><img src="https://img.shields.io/badge/Telegram-@YourTelegram-%2300acee.svg?style=for-the-badge&logo=telegram&logoColor=white"></a>  
+<a href="https://facebook.com/yourFacebook"><img src="https://img.shields.io/badge/Facebook-YourName-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white"></a>  
+<a href="https://instagram.com/yourInstagram"><img src="https://img.shields.io/badge/Instagram-@yourInstagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"></a>
+
 </div>
 
 ---
