@@ -37,7 +37,8 @@
 
 ## 🌐 Languages
 
-- Arabic — Native Speaker  
+- Arabic — Native Speaker
+- English
 
 ---
 
