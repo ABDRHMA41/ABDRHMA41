@@ -1,77 +1,63 @@
-<!DOCTYPE html>
-<html lang="ar">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>الملف الشخصي - عبدالرحمن اغبش</title>
-  <!-- ربط Font Awesome من CDN -->
-  <link
-    rel="stylesheet"
-    href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
-    integrity="sha512-p0vvxRRlzCwz02zSryou4kHIdzTrRmDDJJdDEa32TjwFO/vJXsiqMRySuy23SrTRR9Fm7LPvO0t9p6XoYw5j0g=="
-    crossorigin="anonymous"
-    referrerpolicy="no-referrer"
-  />
-  <style>
-    body {
-      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-      background: linear-gradient(135deg, #0f2027, #203a43, #2c5364);
-      color: #e0e0e0;
-      margin: 0;
-      padding: 20px;
-      text-align: center;
-    }
-    h1 {
-      margin-bottom: 0;
-      font-size: 2.8rem;
-      color: #00bcd4;
-    }
-    p.subtitle {
-      margin-top: 0;
-      font-size: 1.2rem;
-      color: #80deea;
-      font-weight: 500;
-    }
-    .icons {
-      margin-top: 30px;
-    }
-    .icon-link {
-      display: inline-block;
-      margin: 0 20px;
-      color: #00bcd4;
-      font-size: 50px;
-      transition: color 0.3s ease, transform 0.3s ease;
-      text-decoration: none;
-    }
-    .icon-link:hover {
-      color: #00e5ff;
-      transform: scale(1.2);
-    }
-    footer {
-      margin-top: 50px;
-      font-size: 0.9rem;
-      color: #6a9ea3;
-    }
-  </style>
-</head>
-<body>
+<h1 align="center"><b>Hi , I'm Abdelrhman Agbsh 👨‍💻</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-  <h1>عبدالرحمن اغبش</h1>
-  <p class="subtitle">مبرمج مواقع - مبرمج بلغة C++</p>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Self-taught+Web+Developer;Passionate+Front-End+Engineer;Always+Learning+New+Tech;Building+Real+Projects+with+Love+❤️">
+  </a>
+</p>
 
-  <div class="icons">
-    <a href="https://git-scm.com" class="icon-link" target="_blank" title="Git">
-      <i class="fa-brands fa-git"></i>
-    </a>
+<br>
 
-    <a href="https://github.com/username" class="icon-link" target="_blank" title="GitHub">
-      <i class="fa-brands fa-github"></i>
-    </a>
-  </div>
+## 🧠 About Me
+<img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width="250px">
 
-  <footer>
-    &copy; 2025 عبدالرحمن اغبش | جميع الحقوق محفوظة
-  </footer>
+- 🔭 Currently working on multiple **Web Dev** projects  
+- 🌱 Learning back-end technologies like **Node.js & PHP**  
+- 💻 Most used stack: **HTML, CSS, JS, React, Git**  
+- 🧩 Solving problems with **C++** and **Python**  
+- 📫 Reach me at: `agbsh.dev@gmail.com`  
+- ⚡ Fun fact: I love blending design + code + logic  
+<br>
 
-</body>
-</html>
+---
+
+## 🛠️ Skills
+
+### Languages:
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+
+### Frameworks & Tools:
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdelrhmanAgbsh&show_icons=true&count_private=true&theme=tokyonight" width="450" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelrhmanAgbsh&layout=compact&theme=tokyonight" width="375" />
+</div>
+
+---
+
+## 🤝 Let’s Connect!
+<div align="left">
+<a href="mailto:agbsh.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-agbsh.dev-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://linkedin.com/in/your-link" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://t.me/yourTelegram" target="_blank"><img src="https://img.shields.io/badge/Telegram-%2300acee.svg?style=for-the-badge&logo=telegram&logoColor=white"></a>
+</div>
+
+---
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</p>
