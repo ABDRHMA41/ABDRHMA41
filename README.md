@@ -64,7 +64,9 @@
 
 <a href="Tbdalrhmnaghbsh@gmail.com"><img src="https://img.shields.io/badge/Gmail-agbsh.dev-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"></a>  
 <a href="https://github.com/AbdelrhmanAgbsh"><img src="https://img.shields.io/badge/GitHub-AbdelrhmanAgbsh-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>  
-<a href="https://t.me/c/2448838246/119"><img src="https://img.shields.io/badge/LinkedIn-YourName-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>  
+<a href="www.linkedin.com/in/
+abdelrhman-agbsh-3a4b522ba
+اسم عنوان URL صغير"><img src="https://img.shields.io/badge/LinkedIn-YourName-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>  
 <a href="https://t.me/yourTelegram"><img src="https://img.shields.io/badge/Telegram-@YourTelegram-%2300acee.svg?style=for-the-badge&logo=telegram&logoColor=white"></a>  
 <a href="https://facebook.com/yourFacebook"><img src="https://img.shields.io/badge/Facebook-YourName-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white"></a>  
 <a href="https://instagram.com/yourInstagram"><img src="https://img.shields.io/badge/Instagram-@yourInstagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"></a>
