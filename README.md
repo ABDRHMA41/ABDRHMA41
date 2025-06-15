@@ -1,118 +1,52 @@
-#include <iostream>
-#include <vector>
-#include <string>
-using namespace std;
+<h1 align="center"><b>Hi, I'm Abdulrahman Aghbash</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-struct Product {
-    int id;
-    string name;
-    double price;
-    int stock;
-};
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&amp;color=cyan&amp;size=25&amp;center=true&amp;vCenter=true&amp;width=600&amp;height=100&amp;lines=Hello+Welcome!;Self-taught+C%2B%2B+Developer;Web+Programmer"></a>
+</p>
 
-struct CartItem {
-    Product product;
-    int quantity;
-};
+<br>
 
-class Store {
-private:
-    vector<Product> products;
-    vector<CartItem> cart;
+<h2 id="about-me"><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px"> <strong>About me</strong></h2>
+<p><img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width="250px"></p>
 
-public:
-    Store() {
-        // Adding some sample products
-        products.push_back({1, "Apple", 0.5, 100});
-        products.push_back({2, "Banana", 0.3, 150});
-        products.push_back({3, "Orange", 0.7, 120});
-    }
+<ul>
+  <li>Passionate C++ programmer</li>
+  <li>Web developer focused on creating efficient sites</li>
+  <li>Eager to learn new technologies</li>
+  <li>Currently improving programming skills</li>
+</ul>
 
-    void showProducts() {
-        cout << "Available Products:\n";
-        for (const auto& p : products) {
-            cout << p.id << ". " << p.name << " - $" << p.price << " - Stock: " << p.stock << endl;
-        }
-    }
+<br><hr><br>
 
-    void addToCart(int productId, int quantity) {
-        for (auto& p : products) {
-            if (p.id == productId) {
-                if (p.stock >= quantity) {
-                    p.stock -= quantity;
-                    bool found = false;
-                    for (auto& item : cart) {
-                        if (item.product.id == productId) {
-                            item.quantity += quantity;
-                            found = true;
-                            break;
-                        }
-                    }
-                    if (!found) {
-                        cart.push_back({p, quantity});
-                    }
-                    cout << quantity << " " << p.name << "(s) added to cart.\n";
-                } else {
-                    cout << "Sorry, not enough stock.\n";
-                }
-                return;
-            }
-        }
-        cout << "Product not found.\n";
-    }
+<h2 id="skills"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"><b> Skills</b></h2>
 
-    void showCart() {
-        if (cart.empty()) {
-            cout << "Cart is empty.\n";
-            return;
-        }
-        cout << "Your Cart:\n";
-        double total = 0;
-        for (const auto& item : cart) {
-            double itemTotal = item.product.price * item.quantity;
-            cout << item.product.name << " x" << item.quantity << " = $" << itemTotal << endl;
-            total += itemTotal;
-        }
-        cout << "Total: $" << total << endl;
-    }
-};
+<ul>
+  <li><strong>Languages:</strong></li>
+  <p>
+    <img src="https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white" alt="C">
+    <img src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
+  </p>
+</ul>
 
-int main() {
-    Store store;
-    int choice;
+<br><hr><br>
 
-    do {
-        cout << "\n--- Nasim Store ---\n";
-        cout << "1. Show Products\n";
-        cout << "2. Add to Cart\n";
-        cout << "3. Show Cart\n";
-        cout << "0. Exit\n";
-        cout << "Choose an option: ";
-        cin >> choice;
+<h2 id="connect"><b>Let's Connect!</b> <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="80"></h2>
 
-        switch (choice) {
-            case 1:
-                store.showProducts();
-                break;
-            case 2: {
-                int id, qty;
-                cout << "Enter product ID to add: ";
-                cin >> id;
-                cout << "Enter quantity: ";
-                cin >> qty;
-                store.addToCart(id, qty);
-                break;
-            }
-            case 3:
-                store.showCart();
-                break;
-            case 0:
-                cout << "Thank you for visiting Nasim Store!\n";
-                break;
-            default:
-                cout << "Invalid option. Try again.\n";
-        }
-    } while (choice != 0);
-
-    return 0;
-}
+<ul>
+  <li>
+    <a href="https://linkedin.com/in/fakeprofile" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-%2300acee.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-bottom: 5px;">
+    </a>
+  </li>
+  <li>
+    <a href="https://twitter.com/fakeprofile" target="_blank">
+      <img src="https://img.shields.io/badge/Twitter-%2300acee.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" style="margin-bottom: 5px;">
+    </a>
+  </li>
+  <li>
+    <a href="mailto:fakeemail@example.com" target="_blank">
+      <img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="margin-bottom: 5px;">
+    </a>
+  </li>
+</ul>
