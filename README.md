@@ -71,6 +71,3 @@ Preview
 <br>
 <hr>
 <p>Credits: <a href="https://github.com/Aditya664">Aditya Deshmukh</a></p>
-<p>Last Edited on: 04/09/2021</p> 
-Buy wuyasong A CoffeeBuy me a coffee
-Wan 2.1 AI Magi-1 Video
