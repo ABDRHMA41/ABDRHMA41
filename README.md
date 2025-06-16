@@ -110,7 +110,7 @@ public:
 
     Project(string n, string d, string g) 
     {
-        name = n;
+        name =  n;
         description = d;
         githubRepo = g;
     }
