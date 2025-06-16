@@ -101,19 +101,22 @@
 <h2>📦 Projects Class in C++</h2>
 
 `cpp
-class Project {
+class Project
+{
 public:
     string name;
     string description;
     string githubRepo;
 
-    Project(string n, string d, string g) {
+    Project(string n, string d, string g) 
+    {
         name = n;
         description = d;
         githubRepo = g;
     }
 
-    void display() {
+    void display()
+    {
         cout << "Project: " << name << endl;
         cout << "Description: " << description << endl;
         cout << "Repository: " << githubRepo << endl;
