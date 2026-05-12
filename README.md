@@ -26,7 +26,11 @@
 
 ---
 
-<h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"><b> Technical Skills</b></h2>
+<h2>
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25">
+  <b> Technical Skills</b>
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+</h2>
 
 <h3>💻 Programming Languages</h3>
 <p>
@@ -90,7 +94,11 @@ public:
 
 ---
 
-<h2>🚀 <b>Featured Projects</b></h2>
+<h2>
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">
+  <b>Featured Projects</b>
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30">
+</h2>
 
 <table>
 <tr>
@@ -158,7 +166,11 @@ public:
 
 ---
 
-<h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> GitHub Stats </b></h2>
+<h2>
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
+  <b> GitHub Statistics</b>
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
+</h2>
 
 <div align="center">
 <a href="https://github.com/ABDRHMA41">
@@ -173,7 +185,11 @@ public:
 
 ---
 
-<h2>💼 <b>Professional Interests</b></h2>
+<h2>
+  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+  <b>Professional Interests</b>
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="50">
+</h2>
 
 <table>
 <tr>
@@ -197,50 +213,80 @@ public:
 
 ---
 
-<h2 align="center"><b>Let's Connect!</b> <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="80"></h2>
+<h2 align="center">
+  <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px">
+  <b>Let's Connect and Build Together!</b>
+  <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px">
+</h2>
 
 <p align="center">
-  <a href="mailto:Tbdalrhmnaghbsh@gmail.com" target="_blank" title="Send me an Email">
-    <img src="https://img.shields.io/badge/Email-Tbdalrhmnaghbsh@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
+  <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+</p>
+
+<br>
+
+<h3 align="center">📬 Reach Me On</h3>
+
+<p align="center">
+  <a href="mailto:Tbdalrhmnaghbsh@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Gmail"/>
   </a>
-  <a href="http://t.me/ABDURAHMAN_14" target="_blank" title="Telegram @ABDURAHMAN_14">
-    <img src="https://img.shields.io/badge/Telegram-@ABDURAHMAN_14-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+  <a href="http://t.me/ABDURAHMAN_14">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=2CA5E0" alt="Telegram"/>
   </a>
-  <a href="https://www.linkedin.com/in/abdelrhman-agbsh-3a4b522ba" target="_blank" title="LinkedIn abdelrhman-agbsh">
-    <img src="https://img.shields.io/badge/LinkedIn-abdelrhman--agbsh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <a href="https://www.linkedin.com/in/abdelrhman-agbsh-3a4b522ba">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/ABDRHMA41">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=100000" alt="GitHub"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/ABDRHMA41" target="_blank" title="GitHub ABDRHMA41">
-    <img src="https://img.shields.io/badge/GitHub-ABDRHMA41-333333?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <a href="https://www.facebook.com/abdoarhmen.kansas">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1877F2" alt="Facebook"/>
   </a>
-  <a href="https://www.facebook.com/abdoarhmen.kansas" target="_blank" title="Facebook Abdoarhmen.Kansas">
-    <img src="https://img.shields.io/badge/Facebook-Abdoarhmen.Kansas-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+  <a href="https://www.instagram.com/tbdalrhmnaghbsh">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" alt="Instagram"/>
   </a>
-  <a href="https://www.instagram.com/tbdalrhmnaghbsh" target="_blank" title="Instagram tbdalrhmnaghbsh">
-    <img src="https://img.shields.io/badge/Instagram-tbdalrhmnaghbsh-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  <a href="https://x.com/aghbshth">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=000000" alt="X"/>
+  </a>
+  <a href="https://www.youtube.com/@Tech_Sudan_for_Knowledge">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=FF0000" alt="YouTube"/>
   </a>
 </p>
 
-<p align="center">
-  <a href="https://x.com/aghbshth" target="_blank" title="X (Twitter) aghbshth">
-    <img src="https://img.shields.io/badge/X-aghbshth-000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
+<br>
+
+<div align="center">
+  <a href="https://github.com/ABDRHMA41">
+    <img src="https://img.shields.io/github/followers/ABDRHMA41?label=Followers&style=social" alt="GitHub Badge">
   </a>
-  <a href="https://www.youtube.com/@Tech_Sudan_for_Knowledge" target="_blank" title="YouTube Tech Sudan">
-    <img src="https://img.shields.io/badge/YouTube-TechSudan-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
-  </a>
-</p>
+  <img src="https://komarev.com/ghpvc/?username=ABDRHMA41&label=Profile%20Views&color=brightgreen&style=flat-square" alt="Profile views" />
+</div>
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ABDRHMA41&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</div>
+<br>
 
 <div align="center">
-  <h3>💡 "Code is like humor. When you have to explain it, it's bad." - Cory House</h3>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F719&center=true&vCenter=true&width=435&lines=%F0%9F%92%A1+Code+is+poetry+in+logic;%E2%9C%A8+Building+the+future+one+line+at+a+time;%F0%9F%9A%80+Innovation+through+technology" alt="Typing SVG" />
 </div>
+
+<br>
+
+<h2 align="center">
+  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>
+  Contribution Activity
+</h2>
+
+<div align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" alt="snake" />
+</div>
+
+<br>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
