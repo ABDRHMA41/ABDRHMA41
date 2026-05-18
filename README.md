@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+my+Profile;C%2B%2B+%26+.NET+Developer;Building+Smart+Trading+Systems;Medical+Laboratory+Sciences+Student;Open+to+Work!">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00F7FF&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+my+Profile;C%2B%2B+%26+.NET+Developer;Software+Engineer+%7C+Full-Stack+Dev;Medical+Laboratory+Sciences+Student;Open+to+Work+%26+Collaboration!">
   </a>
 </p>
 
@@ -14,12 +14,12 @@
 
 <ul>
 <li>🎓 Medical Laboratory Sciences student (Level 3)</li>
-<li>💻 Passionate developer specializing in C++ and .NET technologies</li>
-<li>📈 Building intelligent trading systems with AI integration</li>
-<li>🌐 Full-stack web developer with focus on robust backend solutions</li>
-<li>🔍 Interested in algorithmic trading, risk management, and financial technology</li>
-<li>🚀 Always exploring new technologies and real-world problem solving</li>
-<li>💡 Open to collaboration on innovative projects</li>
+<li>💻 Software Developer specializing in C++, .NET, and modern web technologies</li>
+<li>🏗️ Building scalable applications and robust backend systems</li>
+<li>🌐 Full-stack developer with passion for clean code and efficient solutions</li>
+<li>🔧 Experienced in desktop applications, web development, and database design</li>
+<li>🚀 Continuously learning and exploring new programming paradigms</li>
+<li>💡 Open to collaboration on innovative software projects</li>
 </ul>
 
 <br><br>
@@ -60,12 +60,12 @@
 
 <h3>📚 Areas of Expertise</h3>
 <ul>
-  <li><strong>Backend Development:</strong> Building robust server-side applications with C++ and .NET</li>
-  <li><strong>Algorithmic Trading:</strong> Developing automated trading systems with technical analysis</li>
-  <li><strong>Database Management:</strong> SQL database design and optimization</li>
-  <li><strong>AI Integration:</strong> Implementing machine learning models for trading strategies</li>
-  <li><strong>Web Development:</strong> Full-stack development with modern technologies</li>
-  <li><strong>System Architecture:</strong> Designing scalable and efficient software systems</li>
+  <li><strong>Software Development:</strong> Building robust applications with C++ and .NET frameworks</li>
+  <li><strong>Web Development:</strong> Full-stack solutions with ASP.NET, HTML/CSS/JavaScript</li>
+  <li><strong>Database Engineering:</strong> SQL database design, optimization, and management</li>
+  <li><strong>System Design:</strong> Scalable architectures and efficient software solutions</li>
+  <li><strong>Automation & AI:</strong> Intelligent systems and process automation</li>
+  <li><strong>Desktop Applications:</strong> Cross-platform software with modern UI/UX</li>
 </ul>
 
 ---
@@ -73,21 +73,30 @@
 <h2>🎯 <b>Current Focus</b></h2>
 
 ```cpp
-class CurrentProjects {
+class DeveloperProfile {
 public:
+    vector<string> core_skills = {
+        "💻 C++ & Object-Oriented Programming",
+        "🌐 Full-Stack Web Development (.NET, ASP.NET)",
+        "🗄️ Database Design & Management (SQL)",
+        "🏗️ Software Architecture & System Design",
+        "🤖 AI Integration & Automation"
+    };
+    
     vector<string> active_projects = {
-        "🤖 المبرمج المتداول - Automated Trading System",
-        "🎯 Zeno - Smart Trading Bot with AI",
-        "🏪 Grocery Store Sales Management System",
-        "🏦 Bank Customer Management System",
-        "🌐 Advanced Web Applications with .NET"
+        "🏪 Grocery Store Management System",
+        "🏦 Bank Customer Management Platform",
+        "🌐 Web Applications with ASP.NET",
+        "🎮 Interactive C++ Applications",
+        "📊 Data Analysis & Automation Tools"
     };
     
     vector<string> learning_goals = {
-        "Advanced .NET Core development",
-        "Machine Learning for financial analysis",
-        "Cloud deployment and DevOps",
-        "Cybersecurity and network security"
+        "Advanced .NET Core & Microservices",
+        "Cloud Computing (Azure/AWS)",
+        "Modern Frontend Frameworks (React, Vue)",
+        "DevOps & CI/CD Pipelines",
+        "System Design & Scalability"
     };
 };
 ```
@@ -104,30 +113,30 @@ public:
 <tr>
 <td width="50%">
 
-### 🤖 المبرمج المتداول (The Trading Programmer)
-**Advanced automated trading system**
+### 🏪 Grocery Store Management System
+**Complete sales and inventory solution**
 
-- 📊 Technical analysis with multiple indicators
-- ⚠️ Comprehensive risk management
-- 💭 Sentiment analysis integration
-- 🎯 Smart order execution
-- 🤖 AI-powered decision making
+- 🛒 Product catalog & inventory management
+- 💰 Sales tracking and financial reporting
+- 📊 Real-time analytics dashboard
+- 👥 Multi-user access control
+- 🔐 Secure authentication system
 
-**Tech Stack:** C++, C#, Python, SQL, AI/ML
+**Tech Stack:** C++, Web Technologies, Database
 
 </td>
 <td width="50%">
 
-### 🎯 Zeno Trading Bot
-**Intelligent trading assistant**
+### 🏦 Bank Customer Management System
+**Comprehensive banking platform**
 
-- 📈 Advanced technical & fundamental analysis
-- 🗳️ Module voting system for decisions
-- 🛑 Auto-stop after 5 consecutive losses
-- 📝 Detailed per-trade reporting
-- 🔄 Continuous learning and adaptation
+- 👤 Customer profile & account management
+- 💳 Transaction processing & history
+- 📋 Automated report generation
+- 🔒 Advanced security features
+- 📊 Financial analytics & insights
 
-**Tech Stack:** C++, Python, SQL
+**Tech Stack:** C++, SQL Database
 
 </td>
 </tr>
@@ -135,30 +144,30 @@ public:
 <tr>
 <td width="50%">
 
-### 🏪 Grocery Store Management
-**Complete sales and inventory system**
+### 🌐 Full-Stack Web Applications
+**Modern web development projects**
 
-- 🛒 Product catalog management
-- 💰 Sales tracking and reporting
-- 📊 Inventory control
-- 👥 User management
-- 📈 Analytics dashboard
+- 🎨 Responsive UI/UX design
+- ⚡ Fast and efficient backend APIs
+- 🔄 Real-time data synchronization
+- 📱 Mobile-friendly interfaces
+- 🛠️ RESTful architecture
 
-**Tech Stack:** C++, Web Technologies
+**Tech Stack:** ASP.NET, HTML/CSS/JS, SQL
 
 </td>
 <td width="50%">
 
-### 🏦 Bank Customer System
-**Customer relationship management**
+### 🤖 Automated Systems & Tools
+**Smart automation solutions**
 
-- 👤 Customer profile management
-- 💳 Account operations
-- 📋 Transaction history
-- 🔐 Secure authentication
-- 📊 Financial reporting
+- 📊 Data analysis and processing
+- 🔄 Workflow automation
+- 🎯 Intelligent decision-making algorithms
+- 📈 Performance optimization
+- 🧪 Testing and validation frameworks
 
-**Tech Stack:** C++, Database
+**Tech Stack:** C++, Python, AI/ML
 
 </td>
 </tr>
@@ -196,13 +205,13 @@ public:
 
 <div align="center">
 
-| 📊 **Algorithmic Trading** | 💻 **Software Development** | 🤖 **AI & Machine Learning** |
+| 💻 **Software Engineering** | 🏗️ **System Architecture** | 🌐 **Web Development** |
 |:--:|:--:|:--:|
-| Building intelligent automated trading systems with advanced technical analysis | Creating robust, scalable applications using modern architectures | Implementing ML solutions for predictive analytics and decision making |
+| Building robust, scalable applications with modern design patterns and clean code principles | Designing efficient systems and optimizing performance for large-scale applications | Creating full-stack web solutions with responsive UI and powerful backend APIs |
 
-| 🌐 **Full-Stack Development** | 🔒 **Cybersecurity** | 📈 **Financial Technology** |
+| 🗄️ **Database Management** | 🤖 **AI & Automation** | 🔒 **Software Security** |
 |:--:|:--:|:--:|
-| End-to-end web applications with modern frameworks | Network security and secure coding practices | FinTech solutions and risk management systems |
+| SQL optimization, data modeling, and efficient query design for high-performance systems | Implementing intelligent automation solutions and machine learning integration | Secure coding practices, authentication systems, and data protection |
 
 </div>
 
@@ -262,7 +271,7 @@ public:
 <br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F719&center=true&vCenter=true&width=435&lines=%F0%9F%92%A1+Code+is+poetry+in+logic;%E2%9C%A8+Building+the+future+one+line+at+a+time;%F0%9F%9A%80+Innovation+through+technology" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=7A7ADB&center=true&vCenter=true&width=550&lines=%F0%9F%92%BB+Clean+Code+%7C+Smart+Solutions;%E2%9C%A8+Building+Software+That+Matters;%F0%9F%9A%80+Committed+to+Continuous+Learning" alt="Typing SVG" />
 </div>
 
 <br>
