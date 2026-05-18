@@ -185,31 +185,26 @@ public:
 
 ---
 
-<h2>
+<h2 align="center">
   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
   <b>Professional Interests</b>
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="50">
 </h2>
 
-<table>
-<tr>
-<td width="33%" align="center">
-<img src="https://img.icons8.com/color/96/000000/trading.png" width="50"><br>
-<strong>Algorithmic Trading</strong><br>
-<sub>Building intelligent trading systems</sub>
-</td>
-<td width="33%" align="center">
-<img src="https://img.icons8.com/color/96/000000/code.png" width="50"><br>
-<strong>Software Development</strong><br>
-<sub>Creating robust applications</sub>
-</td>
-<td width="33%" align="center">
-<img src="https://img.icons8.com/color/96/000000/artificial-intelligence.png" width="50"><br>
-<strong>AI Integration</strong><br>
-<sub>Implementing ML solutions</sub>
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,cs,py,dotnet,github,linux,ai" alt="Tech Stack" />
+</p>
+
+<div align="center">
+
+| 📊 **Algorithmic Trading** | 💻 **Software Development** | 🤖 **AI & Machine Learning** |
+|:--:|:--:|:--:|
+| Building intelligent automated trading systems with advanced technical analysis | Creating robust, scalable applications using modern architectures | Implementing ML solutions for predictive analytics and decision making |
+
+| 🌐 **Full-Stack Development** | 🔒 **Cybersecurity** | 📈 **Financial Technology** |
+|:--:|:--:|:--:|
+| End-to-end web applications with modern frameworks | Network security and secure coding practices | FinTech solutions and risk management systems |
+
+</div>
 
 ---
 
@@ -226,35 +221,30 @@ public:
 
 <br>
 
-<h3 align="center">📬 Reach Me On</h3>
-
 <p align="center">
   <a href="mailto:Tbdalrhmnaghbsh@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="http://t.me/ABDURAHMAN_14">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=2CA5E0" alt="Telegram"/>
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
   <a href="https://www.linkedin.com/in/abdelrhman-agbsh-3a4b522ba">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/ABDRHMA41">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=100000" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-</p>
-
-<p align="center">
   <a href="https://www.facebook.com/abdoarhmen.kansas">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1877F2" alt="Facebook"/>
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
   <a href="https://www.instagram.com/tbdalrhmnaghbsh">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="https://x.com/aghbshth">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=000000" alt="X"/>
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
   </a>
   <a href="https://www.youtube.com/@Tech_Sudan_for_Knowledge">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=FF0000" alt="YouTube"/>
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
 </p>
 
