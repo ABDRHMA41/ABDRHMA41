@@ -34,28 +34,27 @@
 
 <h3>💻 Programming Languages</h3>
 <p>
-  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-  <img src="https://img.shields.io/badge/SQL-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white">
-  <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+  <img src="https://img.shields.io/badge/C++-%2300D9FF.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/C%23-%2300D9FF.svg?style=for-the-badge&logo=c-sharp&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL-%2300D9FF.svg?style=for-the-badge&logo=sqlite&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML-%2300D9FF.svg?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS-%2300D9FF.svg?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-%2300D9FF.svg?style=for-the-badge&logo=javascript&logoColor=white">
 </p>
 
 <h3>🛠️ Frameworks & Technologies</h3>
 <p>
-  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
-  <img src="https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
+  <img src="https://img.shields.io/badge/.NET-00D9FF?style=for-the-badge&logo=.net&logoColor=white">
+  <img src="https://img.shields.io/badge/ASP.NET-00D9FF?style=for-the-badge&logo=.net&logoColor=white">
 </p>
 
 <h3>🔧 Tools & Platforms</h3>
 <p>
-  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/Git-%2300D9FF.svg?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-%2300D9FF.svg?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/VS%20Code-00D9FF.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+  <img src="https://img.shields.io/badge/Visual%20Studio-00D9FF.svg?style=for-the-badge&logo=visual-studio&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux-00D9FF?style=for-the-badge&logo=linux&logoColor=white">
 </p>
 
 <h3>📚 Areas of Expertise</h3>
@@ -167,7 +166,7 @@ public:
 - 📈 Performance optimization
 - 🧪 Testing and validation frameworks
 
-**Tech Stack:** C++, Python, AI/ML
+**Tech Stack:** C++, AI/ML
 
 </td>
 </tr>
@@ -183,13 +182,13 @@ public:
 
 <div align="center">
 <a href="https://github.com/ABDRHMA41">
-  <img src="https://github-readme-stats.vercel.app/api?username=ABDRHMA41&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ABDRHMA41&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375">
+  <img src="https://github-readme-stats.vercel.app/api?username=ABDRHMA41&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=00F7FF&icon_color=00D9FF&text_color=D3D3D3&bg_color=0,000000,130F40" width="450">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ABDRHMA41&show_icons=true&locale=en&layout=compact&line_height=20&title_color=00F7FF&icon_color=00D9FF&text_color=D3D3D3&bg_color=0,000000,130F40" width="375">
 </a>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ABDRHMA41&theme=dark&hide_border=true&background=0D1117&stroke=0000&ring=7A7ADB&fire=7A7ADB&currStreakLabel=7A7ADB" width="450">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ABDRHMA41&theme=dark&hide_border=true&background=0D1117&stroke=0000&ring=00F7FF&fire=00D9FF&currStreakLabel=00F7FF" width="450">
 </div>
 
 ---
@@ -200,20 +199,8 @@ public:
 </h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,cs,py,dotnet,github,linux,ai" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=cpp,cs,dotnet,github,linux,ai" alt="Tech Stack" />
 </p>
-
-<div align="center">
-
-| 💻 **Software Engineering** | 🏗️ **System Architecture** | 🌐 **Web Development** |
-|:--:|:--:|:--:|
-| Building robust, scalable applications with modern design patterns and clean code principles | Designing efficient systems and optimizing performance for large-scale applications | Creating full-stack web solutions with responsive UI and powerful backend APIs |
-
-| 🗄️ **Database Management** | 🤖 **AI & Automation** | 🔒 **Software Security** |
-|:--:|:--:|:--:|
-| SQL optimization, data modeling, and efficient query design for high-performance systems | Implementing intelligent automation solutions and machine learning integration | Secure coding practices, authentication systems, and data protection |
-
-</div>
 
 ---
 
@@ -232,28 +219,28 @@ public:
 
 <p align="center">
   <a href="mailto:Tbdalrhmnaghbsh@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-00D9FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="http://t.me/ABDURAHMAN_14">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+    <img src="https://img.shields.io/badge/Telegram-00D9FF?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
   <a href="https://www.linkedin.com/in/abdelrhman-agbsh-3a4b522ba">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-00D9FF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/ABDRHMA41">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-00D9FF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://www.facebook.com/abdoarhmen.kansas">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+    <img src="https://img.shields.io/badge/Facebook-00D9FF?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
   <a href="https://www.instagram.com/tbdalrhmnaghbsh">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-00D9FF?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="https://x.com/aghbshth">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+    <img src="https://img.shields.io/badge/X-00D9FF?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
   </a>
   <a href="https://www.youtube.com/@Tech_Sudan_for_Knowledge">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+    <img src="https://img.shields.io/badge/YouTube-00D9FF?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
 </p>
 
@@ -263,7 +250,7 @@ public:
   <a href="https://github.com/ABDRHMA41">
     <img src="https://img.shields.io/github/followers/ABDRHMA41?label=Followers&style=social" alt="GitHub Badge">
   </a>
-  <img src="https://komarev.com/ghpvc/?username=ABDRHMA41&label=Profile%20Views&color=brightgreen&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=ABDRHMA41&label=Profile%20Views&color=00D9FF&style=flat-square" alt="Profile views" />
 </div>
 
 ---
@@ -271,7 +258,7 @@ public:
 <br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=7A7ADB&center=true&vCenter=true&width=550&lines=%F0%9F%92%BB+Clean+Code+%7C+Smart+Solutions;%E2%9C%A8+Building+Software+That+Matters;%F0%9F%9A%80+Committed+to+Continuous+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=00F7FF&center=true&vCenter=true&width=550&lines=%F0%9F%92%BB+Clean+Code+%7C+Smart+Solutions;%E2%9C%A8+Building+Software+That+Matters;%F0%9F%9A%80+Committed+to+Continuous+Learning" alt="Typing SVG" />
 </div>
 
 <br>
