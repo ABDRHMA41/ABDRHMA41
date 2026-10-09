@@ -13,7 +13,7 @@
 <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width="250px">
 
 <ul>
-<li>🎓 Medical Laboratory Sciences student (Level 3)</li>
+
 <li>💻 Software Developer specializing in C++, .NET, and modern web technologies</li>
 <li>🏗️ Building scalable applications and robust backend systems</li>
 <li>🌐 Developer focused on clean code and efficient solutions</li>
@@ -57,7 +57,7 @@
 <h3>📚 Areas of Expertise</h3>
 <ul>
   <li><strong>Software Development:</strong> Building robust applications with C++ and .NET frameworks</li>
-  <li><strong>Web Development:</strong> HTML, CSS, and JavaScript</li>
+  <li><strong>Web Development:</strong> HTML, CSS, and C#</li>
   <li><strong>Database Engineering:</strong> SQL database design, optimization, and management</li>
   <li><strong>System Design:</strong> Scalable architectures and efficient software solutions</li>
   <li><strong>Desktop Applications:</strong> Cross-platform software with modern UI/UX</li>
