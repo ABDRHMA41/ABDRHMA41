@@ -1,6 +1,3 @@
-حسناً، أعدت الإيموجي والشعارات الأصلية، وحذفت فقط ما طلبته: Python و JavaScript و ASP.NET، والمحتوى المتعلق بالذكاء الاصطناعي والأتمتة، وبطاقات "Areas of Expertise" و"Professional Interests" و"Contribution Activity" وغيرها من أجزاء البيانات، وأبقيت الباقي كما هو.
-
-```markdown
 <h1 align="center"><b>Hi, I'm Abdulrahman Aghbash</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
@@ -17,14 +14,15 @@
 
 <ul>
 <li>🎓 Medical Laboratory Sciences student (Level 3)</li>
-<li>💻 Software Developer specializing in C++ and .NET</li>
+<li>💻 Software Developer specializing in C++, .NET, and modern web technologies</li>
+<li>🏗️ Building scalable applications and robust backend systems</li>
+<li>🌐 Developer focused on clean code and efficient solutions</li>
 <li>🔧 Experienced in desktop applications, web development, and database design</li>
+<li>🚀 Continuously learning and exploring new programming paradigms</li>
 <li>💡 Open to collaboration on innovative software projects</li>
 </ul>
 
 <br><br>
-
----
 
 <h2>
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25">
@@ -39,6 +37,7 @@
   <img src="https://img.shields.io/badge/SQL-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white">
   <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
 </p>
 
 <h3>🛠️ Frameworks & Technologies</h3>
@@ -55,68 +54,116 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 </p>
 
----
+<h3>📚 Areas of Expertise</h3>
+<ul>
+  <li><strong>Software Development:</strong> Building robust applications with C++ and .NET frameworks</li>
+  <li><strong>Web Development:</strong> HTML, CSS, and JavaScript</li>
+  <li><strong>Database Engineering:</strong> SQL database design, optimization, and management</li>
+  <li><strong>System Design:</strong> Scalable architectures and efficient software solutions</li>
+  <li><strong>Desktop Applications:</strong> Cross-platform software with modern UI/UX</li>
+</ul>
 
 <h2>🎯 <b>Current Focus</b></h2>
 
-```cpp
 class DeveloperProfile {
 public:
+    vector<string> core_skills = {
+        "💻 C++ & Object-Oriented Programming",
+                "🗄️ Database Design & Management (SQL)",
+        "🏗️ Software Architecture & System Design",
+        "🤖 AI Integration & Automation"
+    };
+    
     vector<string> active_projects = {
         "🏪 Grocery Store Management System",
-        "🏦 Bank Customer Management Platform"
-    };
-
+        "🏦 Bank Customer Management Platform",
+        "🎮 Interactive C++ Applications",
+            };
+    
     vector<string> learning_goals = {
-        "Advanced .NET",
+        "Advanced .NET Core & Microservices",
+        "Cloud Computing (Azure/AWS)",
+        "Modern Frontend Frameworks (React, Vue)",
+        "DevOps & CI/CD Pipelines",
         "System Design & Scalability"
     };
 };
-```
-
----
 
 <h2>
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">
   <b>Featured Projects</b>
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30">
 </h2>
 
 <table>
 <tr>
 <td width="50%">
 
-### 🏪 Grocery Store Management System
-**Complete sales and inventory solution**
+🏪 Grocery Store Management System
 
-- 🛒 Product catalog & inventory management
-- 💰 Sales tracking and financial reporting
-- 👥 Multi-user access control
-- 🔐 Secure authentication system
+Complete sales and inventory solution
 
-**Tech Stack:** C++, Database
+🛒 Product catalog & inventory management
+
+💰 Sales tracking and financial reporting
+
+📊 Real-time analytics dashboard
+
+👥 Multi-user access control
+
+🔐 Secure authentication system
+
+Tech Stack: C++, Web Technologies, Database
 
 </td>
 <td width="50%">
 
-### 🏦 Bank Customer Management System
-**Comprehensive banking platform**
+🏦 Bank Customer Management System
 
-- 👤 Customer profile & account management
-- 💳 Transaction processing & history
-- 📋 Automated report generation
-- 🔒 Advanced security features
+Comprehensive banking platform
 
-**Tech Stack:** C++, SQL Database
+👤 Customer profile & account management
+
+💳 Transaction processing & history
+
+📋 Automated report generation
+
+🔒 Advanced security features
+
+📊 Financial analytics & insights
+
+Tech Stack: C++, SQL Database
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+🌐 Full-Stack Web Applications
+
+Modern web development projects
+
+🎨 Responsive UI/UX design
+
+⚡ Fast and efficient backend APIs
+
+🔄 Real-time data synchronization
+
+📱 Mobile-friendly interfaces
+
+🛠️ RESTful architecture
+
+Tech Stack: HTML, CSS, JavaScript, SQL
 
 </td>
 </tr>
 </table>
 
----
-
 <h2>
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
   <b> GitHub Statistics</b>
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
 </h2>
 
 <div align="center">
@@ -126,15 +173,51 @@ public:
 </a>
 </div>
 
----
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ABDRHMA41&theme=dark&hide_border=true&background=0D1117&stroke=0000&ring=7A7ADB&fire=7A7ADB&currStreakLabel=7A7ADB" width="450">
+</div>
 
 <h2 align="center">
-  <b>Let's Connect and Build Together!</b>
+  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+  <b>Professional Interests</b>
 </h2>
 
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,cs,dotnet,github,linux" alt="Tech Stack" />
+</p>
+
+<div align="center">
+
+💻 Software Engineering
+
+🏗️ System Architecture
+
+🌐 Web Development
+
+Building robust, scalable applications with modern design patterns and clean code principles
+
+Designing efficient systems and optimizing performance for large-scale applications
+
+Creating full-stack web solutions with responsive UI and powerful backend APIs
+
+| 🗄️ Database Management | 🔒 Software Security |
+|:--:|:--:|:--:|
+| SQL optimization, data modeling, and efficient query design for high-performance systems | Secure coding practices, authentication systems, and data protection |
+
+</div>
+
+<h2 align="center">
+  <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px">
+  <b>Let's Connect and Build Together!</b>
+  <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px">
+</h2>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
   <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 </p>
+
+<br>
 
 <p align="center">
   <a href="mailto:Tbdalrhmnaghbsh@gmail.com">
@@ -162,4 +245,35 @@ public:
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
 </p>
-```
+
+<br>
+
+<div align="center">
+  <a href="https://github.com/ABDRHMA41">
+    <img src="https://img.shields.io/github/followers/ABDRHMA41?label=Followers&style=social" alt="GitHub Badge">
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=ABDRHMA41&label=Profile%20Views&color=brightgreen&style=flat-square" alt="Profile views" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=7A7ADB&center=true&vCenter=true&width=550&lines=%F0%9F%92%BB+Clean+Code+%7C+Smart+Solutions;%E2%9C%A8+Building+Software+That+Matters;%F0%9F%9A%80+Committed+to+Continuous+Learning" alt="Typing SVG" />
+</div>
+
+<br>
+
+<h2 align="center">
+  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>
+  Contribution Activity
+</h2>
+
+<div align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" alt="snake" />
+</div>
+
+<br>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
